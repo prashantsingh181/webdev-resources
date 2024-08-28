@@ -12,3 +12,6 @@
  - [Radix UI](https://www.radix-ui.com/colors/custom): To create custom color palettes.
  - [Happy hues](https://www.happyhues.co/): Already created color templates.
  - [Coolors](https://coolors.co/): To create color palettes.
+
+## Webiste Templates
+ - [Bootstrap Made](https://bootstrapmade.com/): Bootstrap made templates
