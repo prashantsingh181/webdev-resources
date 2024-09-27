@@ -13,5 +13,13 @@
  - [Happy hues](https://www.happyhues.co/): Already created color templates.
  - [Coolors](https://coolors.co/): To create color palettes.
 
+## Background Resources
+ - [Unsplash](https://unsplash.com/): To download free backgrounds.
+ - [Undraw](https://undraw.co/): To download free Illustrations.
+
 ## Webiste Templates
  - [Bootstrap Made](https://bootstrapmade.com/): Bootstrap made templates
+
+## Logo Maker
+ - [Logo](https://logo.com/): To make free logos
+
