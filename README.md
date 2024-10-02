@@ -1,8 +1,6 @@
 
 # Resources for Web Development
 - [CSS Shape](https://css-shape.com/): Create different shapes from CSS.
-- [Haikei](https://app.haikei.app/): Get Different backgrounds for website.
-- [Excalidraw](https://excalidraw.com/): To make flow charts.
 
 ## Github Profile Readme Genrators
 - [Profile Me](https://www.profileme.dev/): To create Github profile readme.
@@ -16,10 +14,16 @@
 ## Background Resources
  - [Unsplash](https://unsplash.com/): To download free backgrounds.
  - [Undraw](https://undraw.co/): To download free Illustrations.
+ - [Haikei](https://app.haikei.app/): Get Different backgrounds for website.
 
 ## Webiste Templates
  - [Bootstrap Made](https://bootstrapmade.com/): Bootstrap made templates
 
 ## Logo Maker
  - [Logo](https://logo.com/): To make free logos
+
+## Drawing Resources
+- [Draw.io](https://www.drawio.com/): To make flow charts
+- [Excalidraw](https://excalidraw.com/): To make flow charts.
+
 
